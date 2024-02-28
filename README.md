@@ -6,7 +6,7 @@ This website is built using [Docuo](https://app.spreading.ai/home), a modern sta
 
 Preview changes locally.
 
-### Installation
+### Installation x
 
 Download the Docuo CLI.
 
